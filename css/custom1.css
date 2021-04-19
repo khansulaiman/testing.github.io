@@ -1,0 +1,115 @@
+
+body{ 
+    margin: 0px;
+    padding:0px;
+}
+#navbar_custom_css .nav-item a{
+    color:rgb(245, 238, 238);
+}
+#navbar_custom_css .nav-item a:hover{
+   background-color: white;
+   color: rgb(219, 18, 11);
+}
+.back-image
+{
+    margin-top: 2px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height:100vh;
+    border-radius: 0px;
+    opacity: 0.7;
+  
+    
+
+}
+#reveiw{
+    margin-top: 2px;
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    min-height:40vh;
+    border-radius: 0px;
+}
+    
+
+.navbar-nav .nav-item .nav-link{
+    color:white;
+}
+.font-italic
+{
+    font-size: 24px;
+}
+#myMenu li a{
+    color:white;
+
+}
+#myMenu li a:hover{
+    color:#0275d8;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+    
+}
+.font-italic
+{
+    font-size: 24px;
+}
+
+.fi-color:hover
+{
+    color: #e994a2;
+}
+a
+{
+    color: black;
+}
+
+.mainheading
+{
+    margin-top: 50px;
+}
+
+
+@media only screen and (max-width:810px){
+    .mainheading{
+        margin-top: 100px;
+    }
+}
+@media only screen and (max-width: 600px){
+    .myclass
+    {
+        margin-top: 350px;
+        text-align: center;
+    }
+
+}
+#myMenu li a{
+    color:white;           
+    
+}
+.sidebar{
+  padding: 10px;
+  border:0px;
+  box-shadow: 5px 10px #888888;
+}
+a:hover{
+background-color: rgba(11, 14, 14,0.1);
+}
+#myMenu li a,
+#text {
+    color: white;
+
+}
+
+#myMenu li a:hover {
+    color: #0275d8;
+    background-color: white;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+a:hover {
+    background-color: rgba(255, 255, 255, 0.1);
+}
